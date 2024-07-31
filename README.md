@@ -88,6 +88,6 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:parayu2905@gmail.com).
+For questions or feedback, please contact [parayu2905@gmail.com](mailto:parayu2905@gmail.com).
 
 ```
