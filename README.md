@@ -35,7 +35,7 @@ pip install opencv-python numpy Pillow face_recognition
 
    ```bash
    git clone https://github.com/anonymous2905/Face_Recognistion.git
-   cd Face-Recognition-system
+   cd Face_Recognistion
    ```
 
 2. **Setup the Database:**
@@ -47,7 +47,7 @@ pip install opencv-python numpy Pillow face_recognition
    Start the application by running:
 
    ```bash
-   python "face recognition(working).py"
+   python "face recognition(working)1.py"
    ```
 
    This will open the GUI window for user interaction.
