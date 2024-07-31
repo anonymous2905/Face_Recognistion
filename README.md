@@ -47,7 +47,7 @@ pip install opencv-python numpy Pillow face_recognition
    Start the application by running:
 
    ```bash
-   python face_recognition_app.py
+   python "face recognition(working).py"
    ```
 
    This will open the GUI window for user interaction.
