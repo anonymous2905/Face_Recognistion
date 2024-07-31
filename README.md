@@ -34,8 +34,8 @@ pip install opencv-python numpy Pillow face_recognition
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/Face-recognition-system.git
-   cd Face-recognition-system
+   git clone https://github.com/anonymous2905/Face_Recognistion.git
+   cd Face-Recognition-system
    ```
 
 2. **Setup the Database:**
